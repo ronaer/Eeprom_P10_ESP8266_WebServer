@@ -5,6 +5,7 @@
  * The original source code to "running Text" : https://github.com/busel7/DMDESP/blob/master/examples/TeksDiamdanJalan/TeksDiamdanJalan.ino by  busel7
  * Credit to: YouTube @utehstr https://www.youtube.com/watch?v=6IQYDnwTjAo
  * Derleme ve karta yükleme öncesi, tüm kütüphaneler ve font dosyaları arduino ide'sine yüklenmiş olmalıdır...
+ * https://www.youtube.com/watch?v=B2bcwjxz8PY&lc=UgyeBxwRFcl1iEg-sAx4AaABAg.9ljv2uVR6pu9lkRHr8oosP
 */
 
 /********************************************************************
